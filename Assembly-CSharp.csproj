@@ -73,7 +73,6 @@
      <Compile Include="Assets\Fonts\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
      <Compile Include="Assets\4000+SinplePixelIconPack\Scripts\MoveDemo.cs" />
      <Compile Include="Assets\Scripts\LevelLoader.cs" />
-     <Compile Include="Assets\LevelLoader.cs" />
      <None Include="Assets\Fonts\spritefont_and_other\document_and_picturelist\readme.txt" />
      <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
