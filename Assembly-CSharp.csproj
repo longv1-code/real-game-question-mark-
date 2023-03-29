@@ -37,12 +37,14 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Fonts\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
+     <Compile Include="Assets\Scripts\LevelLoader.cs" />
      <Compile Include="Assets\Fonts\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
      <Compile Include="Assets\Scripts\mainMenu.cs" />
      <Compile Include="Assets\Fonts\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
      <Compile Include="Assets\Fonts\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
      <Compile Include="Assets\Fonts\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
      <Compile Include="Assets\Fonts\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
+     <Compile Include="Assets\4000+SinplePixelIconPack\Scripts\MoveDemo.cs" />
      <Compile Include="Assets\Fonts\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
      <Compile Include="Assets\Fonts\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
      <Compile Include="Assets\Fonts\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
@@ -71,8 +73,7 @@
      <Compile Include="Assets\Fonts\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
      <Compile Include="Assets\Fonts\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
      <Compile Include="Assets\Fonts\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
-     <Compile Include="Assets\4000+SinplePixelIconPack\Scripts\MoveDemo.cs" />
-     <Compile Include="Assets\Scripts\LevelLoader.cs" />
+     <Compile Include="Assets\GameManager.cs" />
      <None Include="Assets\Fonts\spritefont_and_other\document_and_picturelist\readme.txt" />
      <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\Fonts\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
